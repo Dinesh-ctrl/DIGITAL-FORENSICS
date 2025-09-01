@@ -27,6 +27,9 @@ website
     capture. Wireshark will immediately begin capturing all traffic
     passing through that interface.
 
+
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/1bfb1507-5bed-488a-a7d3-3ad6b56c3834" />
+
 > **Step 2: Generate Login Traffic**
 
 -   Open a web browser and navigate
@@ -41,6 +44,12 @@ Password: password123
 -   Click the login button. The login will fail, but the data has
     already been sent across the network.
 
+    <img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/7047ef1e-5ebb-47f6-8d23-249b65a345ce" />
+
+    <img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/756f9e5d-28f4-4f0c-8958-38ad2a7f7c6a" />
+
+
+
 **step 3: Stop Capture and Filter Traffic**
 
 -   Return to Wireshark and click the Stop button (the red square).
@@ -51,6 +60,9 @@ Password: password123
 
 -   Apply the following filter to find the exact packet and press Enter:
 
+-   <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/70eef26f-e94e-4964-b1ff-0b23fbd6d80f" />
+
+
 **step 4: Inspect the Packet to Find Credentials**
 
 -   In the filtered packet list, you should see a packet with
@@ -59,9 +71,15 @@ Password: password123
 -   In the Packet Details pane below the list, expand the following
     sections:
 
+    <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/ab59a76d-794b-4f70-8e10-a91982d7c8af" />
+
+
 Hypertext Transfer Protocol HTML Form URL EncodedInside the \"HTML Form
 URL Encoded\" section, you will see the credentials you entered in
 plaintext.
+
+<img width="1603" height="880" alt="Screenshot 2025-08-31 223412" src="https://github.com/user-attachments/assets/8ea23552-2541-4d43-8dbb-91aeaa673625" />
+
 
 **Result**
 
