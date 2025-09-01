@@ -12,8 +12,9 @@ Steps to Capture RAM Using FTK Imager
 1\. Run as Administrator
 
 -   Open FTK Imager with administrative privileges.
-
+[alt image](<Exp1/Screenshot(45).png>)
 -   Right-click the FTK Imager icon and select Run as administrator
+-   
 
 **2. Initiate Memory Capture**
 
