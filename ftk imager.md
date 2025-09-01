@@ -5,7 +5,7 @@
 **Acquiring Volatile Memory (RAM) Using FTK Imager**
 
 **Link for installation file :-**
-https://d1kpmuwb7gvu1i.cloudfront.net/Imgr/4.7.3.81%20Release/Exterro_FTK_Imager\_%28x64%29-4.7.3.81.exe
+[link](https://d1kpmuwb7gvu1i.cloudfront.net/Imgr/4.7.3.81%20Release/Exterro_FTK_Imager\_%28x64%29-4.7.3.81.exe)
 
 Steps to Capture RAM Using FTK Imager
 
