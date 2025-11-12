@@ -1,4 +1,4 @@
-## Experiment No - 06: Use Sleuth Kit to Analyze Digital Evidence
+## Experiment : Use Sleuth Kit to Analyze Digital Evidence
 
 ### Description
 The **Sleuth Kit (TSK)** is a suite of command-line tools for analyzing disk images and recovering digital evidence. This guide outlines the steps to use TSK on a Windows machine for digital forensics.
